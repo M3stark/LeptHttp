@@ -30,7 +30,7 @@ make
 ./webserver 10000
 ```
 
-<img src="/home/mike/Projects/LeptHttp/resources/screenshoot/usage_sample.png" alt="usage_sample" style="zoom:67%;" />
+<img src="https://github.com/M3stark/LeptHttp/blob/main/resources/screenshoot/usage_sample.png" alt="usage_sample" style="zoom:67%;" />
 
 - Open the browser, input the the resources.
 
